@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R1 Old Footprint=D0805 New Footprint=D1206
+Change Component Footprint: Designator=R2 Old Footprint=D0805 New Footprint=D1206
+Change Component Footprint: Designator=R3 Old Footprint=D0805 New Footprint=D1206
+Change Component Footprint: Designator=R4 Old Footprint=D0805 New Footprint=D1206
+Change Component Comment : Designator=R1 Old Comment=0603 New Comment=1206
+Change Component Comment : Designator=R2 Old Comment=0603 New Comment=1206
+Change Component Comment : Designator=R3 Old Comment=0603 New Comment=1206
+Change Component Comment : Designator=R4 Old Comment=0603 New Comment=1206

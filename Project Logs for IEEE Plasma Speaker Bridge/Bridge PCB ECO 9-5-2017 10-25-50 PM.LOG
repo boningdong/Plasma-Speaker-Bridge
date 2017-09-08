@@ -1,0 +1,137 @@
+Added Component: Designator=C1(RB7.5H30)
+Added Component: Designator=C2(RB7.5H30)
+Added Component: Designator=D1(DO-214)
+Added Component: Designator=D2(DO-214)
+Added Component: Designator=D3(DO-214)
+Added Component: Designator=D4(DO-214)
+Added Component: Designator=J1(2.5 PWR)
+Added Component: Designator=J2(Phonejack Type-1)
+Added Component: Designator=OUTPUT(AXIAL-0.9)
+Added Component: Designator=Q1(TO-220AB SMD)
+Added Component: Designator=Q2(TO-220AB SMD)
+Added Component: Designator=Q3(TO-220AB SMD)
+Added Component: Designator=Q4(TO-220AB SMD)
+Added Component: Designator=R0(D0805)
+Added Component: Designator=R1(D0805)
+Added Component: Designator=R2(D0805)
+Added Component: Designator=R3(D0805)
+Added Component: Designator=R4(D0805)
+Added Component: Designator=T1(DIODE-0.7)
+Added Component: Designator=T2(DIODE-0.7)
+Added Component: Designator=T3(DIODE-0.7)
+Added Component: Designator=T4(DIODE-0.7)
+Added Component: Designator=U1(Plasma Speaker Module)
+Added Component: Designator=Z1(DO-41)
+Added Component: Designator=Z2(DO-41)
+Added Component: Designator=Z3(DO-41)
+Added Component: Designator=Z4(DO-41)
+Added Component: Designator=Z5(DO-41)
+Added Component: Designator=Z6(DO-41)
+Added Component: Designator=Z7(DO-41)
+Added Component: Designator=Z8(DO-41)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=Z4-2
+Added Pin To Net: NetName=GND Pin=Z8-2
+Added Net: Name=GND
+Added Pin To Net: NetName=HG1 Pin=D1-2
+Added Pin To Net: NetName=HG1 Pin=R1-1
+Added Pin To Net: NetName=HG1 Pin=U1-7
+Added Net: Name=HG1
+Added Pin To Net: NetName=HG2 Pin=D3-2
+Added Pin To Net: NetName=HG2 Pin=R3-2
+Added Pin To Net: NetName=HG2 Pin=U1-11
+Added Net: Name=HG2
+Added Pin To Net: NetName=HS1 Pin=OUTPUT-1
+Added Pin To Net: NetName=HS1 Pin=Q1-3
+Added Pin To Net: NetName=HS1 Pin=Q2-2
+Added Pin To Net: NetName=HS1 Pin=Q2-2
+Added Pin To Net: NetName=HS1 Pin=T1-1
+Added Pin To Net: NetName=HS1 Pin=T3-2
+Added Pin To Net: NetName=HS1 Pin=U1-6
+Added Pin To Net: NetName=HS1 Pin=Z2-2
+Added Net: Name=HS1
+Added Pin To Net: NetName=HS2 Pin=OUTPUT-2
+Added Pin To Net: NetName=HS2 Pin=Q3-3
+Added Pin To Net: NetName=HS2 Pin=Q4-2
+Added Pin To Net: NetName=HS2 Pin=Q4-2
+Added Pin To Net: NetName=HS2 Pin=T2-1
+Added Pin To Net: NetName=HS2 Pin=T4-2
+Added Pin To Net: NetName=HS2 Pin=U1-10
+Added Pin To Net: NetName=HS2 Pin=Z6-2
+Added Net: Name=HS2
+Added Pin To Net: NetName=LG1 Pin=D2-2
+Added Pin To Net: NetName=LG1 Pin=R2-1
+Added Pin To Net: NetName=LG1 Pin=U1-2
+Added Net: Name=LG1
+Added Pin To Net: NetName=LG2 Pin=D4-2
+Added Pin To Net: NetName=LG2 Pin=R4-2
+Added Pin To Net: NetName=LG2 Pin=U1-8
+Added Net: Name=LG2
+Added Pin To Net: NetName=MIDI Pin=J2-2
+Added Pin To Net: NetName=MIDI Pin=R0-2
+Added Pin To Net: NetName=MIDI Pin=U1-1
+Added Net: Name=MIDI
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Pin To Net: NetName=NetD1_1 Pin=Z1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-2
+Added Pin To Net: NetName=NetD2_1 Pin=Z3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R3-1
+Added Pin To Net: NetName=NetD3_1 Pin=Z5-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Z7-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_2A Pin=J2-5
+Added Pin To Net: NetName=NetJ2_2A Pin=R0-1
+Added Net: Name=NetJ2_2A
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetZ1_1 Pin=Z1-1
+Added Pin To Net: NetName=NetZ1_1 Pin=Z2-1
+Added Net: Name=NetZ1_1
+Added Pin To Net: NetName=NetZ3_1 Pin=Z3-1
+Added Pin To Net: NetName=NetZ3_1 Pin=Z4-1
+Added Net: Name=NetZ3_1
+Added Pin To Net: NetName=NetZ5_1 Pin=Z5-1
+Added Pin To Net: NetName=NetZ5_1 Pin=Z6-1
+Added Net: Name=NetZ5_1
+Added Pin To Net: NetName=NetZ7_1 Pin=Z7-1
+Added Pin To Net: NetName=NetZ7_1 Pin=Z8-1
+Added Net: Name=NetZ7_1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q3-2
+Added Pin To Net: NetName=VCC Pin=Q3-2
+Added Pin To Net: NetName=VCC Pin=T1-2
+Added Pin To Net: NetName=VCC Pin=T2-2
+Added Pin To Net: NetName=VCC Pin=U1-5
+Added Net: Name=VCC
+Added Class: Name=Plasma Speaker H-Bridge
+Added Room: Name=Plasma Speaker H-Bridge

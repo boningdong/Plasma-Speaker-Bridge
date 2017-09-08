@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=T1 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Footprint: Designator=T2 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Footprint: Designator=T3 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Footprint: Designator=T4 Old Footprint=DIODE-0.7 New Footprint=DO-214
+Change Component Footprint: Designator=Z1 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z2 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z3 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z4 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z5 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z6 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z7 Old Footprint=DO-41 New Footprint=D1206
+Change Component Footprint: Designator=Z8 Old Footprint=DO-41 New Footprint=D1206
+Added Component: Designator=HV(154-207E)
+Added Member To Class: ClassName=Plasma Speaker H-Bridge Member=Component HV HV Flyback Transformer
